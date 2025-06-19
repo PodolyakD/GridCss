@@ -1,0 +1,26 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  column-gap: 15px;
+}
+
+.grid-item1 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: red;
+  grid-area: 1/3/4/4;
+}
+
+.grid-item2 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: green;
+  border: black;
+}
+
+.grid-item3 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: blue;
+}
