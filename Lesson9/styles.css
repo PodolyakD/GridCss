@@ -1,0 +1,65 @@
+.grid {
+  display: grid;
+  gap: 10px;
+  height: 100vh;
+  grid-template-columns: repeat(auto-fill, minmax(100px, auto));
+}
+
+.grid-item1 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: red;
+}
+
+.grid-item2 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: green;
+}
+
+.grid-item3 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: blue;
+}
+
+.grid-item4 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: yellow;
+}
+.grid-item5 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: salmon;
+}
+
+.grid-item6 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: pink;
+}
+
+.grid-item7 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: gray;
+}
+
+.grid-item8 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: brown;
+}
+
+.grid-item9 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: red;
+}
+
+.grid-item10 {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: greenyellow;
+}
