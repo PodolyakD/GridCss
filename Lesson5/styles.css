@@ -1,0 +1,19 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 300px;
+  border: 1px dashed #000;
+  background-color: plum;
+  align-items: center; 
+  justify-items: center;
+}
+
+.grid-item {
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.grid-item1 {
+  /* align-self: center;
+  justify-self: center; */
+}
